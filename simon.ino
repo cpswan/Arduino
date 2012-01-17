@@ -26,7 +26,6 @@
     }
   }
   
-  
   /*
   functions to flash LEDs and play corresponding tones
   very simple - turn LED on, play tone for .5s, turn LED off
